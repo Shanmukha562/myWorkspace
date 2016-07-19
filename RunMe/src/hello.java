@@ -9,4 +9,8 @@ public static void main(String[] args) {
 	System.out.println("kasari");
 	System.out.println("hallaBol");
 }
+public static void go(){
+	System.out.println("plz go");
+	
+}
 }
