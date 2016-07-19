@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("nai");
 	System.out.println("kasari");
 	System.out.println("hallaBol");
+	System.out.println("desh");
 }
 }
