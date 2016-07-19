@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	System.out.println("hallaBol");
 	System.out.println("desh");
 }
-public static void go(){
+public static void(){
 	System.out.println("plz go");
 	//this is from eclipse
 	// hello this is from github
