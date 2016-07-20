@@ -6,8 +6,8 @@
  */
 
 public class Calculator {
-
-	/**
+	
+/**
 	 * Two variable function
 	 */
 	public int firstNumber;
