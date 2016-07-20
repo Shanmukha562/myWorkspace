@@ -13,10 +13,6 @@ public class Calculator {
 	public int firstNumber;
 	public int secondNumber;
 
-	public static void main(String[] args) {
-		System.out.println("Addition is " + Addition(10, 5));
-	}
-
 	/**
 	 * Return addition of two number
 	 * 
