@@ -6,9 +6,8 @@ public class Calculator {
 	
 	
 	public int Addition(int firstNumber, int secondNumber){
-		x = firstNumber;
-		y = secondNumber;
-		return x + y;
+		
+		return firstNumber + secondNumber;
 	}
 	
 	
