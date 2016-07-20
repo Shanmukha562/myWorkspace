@@ -17,6 +17,7 @@ public class Calculator {
 
 	public static void main(String[] args) {
 		System.out.println("Addition is " + Addition(10, 5));
+		System.out.println("Subraction is " + Subraction(10, 5));
 
 	}
 
@@ -38,7 +39,8 @@ public class Calculator {
 	 * @param secondNumber
 	 * @return firstNumber - secondNubmer
 	 */
-	public int Subraction(int firstNumber, int secondNumber) {
+	public static int Subraction(int firstNumber, int secondNumber) {
 		return firstNumber - secondNumber;
 	}
+	
 }
