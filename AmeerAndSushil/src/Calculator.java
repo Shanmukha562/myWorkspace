@@ -6,8 +6,8 @@
  */
 
 public class Calculator {
-	
-/**
+
+	/**
 	 * Two variable function
 	 */
 	public int firstNumber;
@@ -31,7 +31,8 @@ public class Calculator {
 	 * @param secondNumber
 	 * @return firstNumber - secondNubmer
 	 */
-	public int Subraction(int firstNumber, int secondNumber) {
+	public static int Subraction(int firstNumber, int secondNumber) {
 		return firstNumber - secondNumber;
 	}
+
 }
