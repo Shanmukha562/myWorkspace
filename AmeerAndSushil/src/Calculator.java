@@ -11,5 +11,9 @@ public class Calculator {
 		return x + y;
 	}
 	
-	
+	public int Subraction(int firstNumber, int secondNumber){
+         x = firstNumber;
+         y = secondNumber;
+		return x - y;
+	}
 }
