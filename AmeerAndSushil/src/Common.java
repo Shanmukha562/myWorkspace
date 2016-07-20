@@ -1,4 +1,8 @@
-
+/**
+ * Added java docs
+ * @author sushil.bahadur.karki
+ *
+ */
 public class Common {
 
 	public void trySomeChange(){
