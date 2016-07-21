@@ -12,6 +12,7 @@ public class Common {
 		System.out.println("changes done by gitHub");
 		System.out.println("added from gitHub");
 		System.out.println("update eclipse from github");
+		System.out.println("changes made from github");
         
 	}
 }
