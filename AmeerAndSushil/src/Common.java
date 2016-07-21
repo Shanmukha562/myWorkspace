@@ -10,6 +10,8 @@ public class Common {
 		System.out.println("changes made from github from amer Account");
 		System.out.println("added new line by Sushil");
 		System.out.println("changes done by gitHub");
+		System.out.println("added from gitHub");
+		System.out.println("update eclipse from github");
         
 	}
 }
