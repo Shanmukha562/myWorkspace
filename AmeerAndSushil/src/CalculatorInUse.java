@@ -5,7 +5,7 @@
  */
 public class CalculatorInUse {
 public static void main(String[] args) {
-       System.out.println("Addition for first number and second number is " + Calculator.Addition(10, 5));
+       System.out.println("Addition for first number and second number is " + Calculator.Addition(20, 5));
 	
 }
 }
