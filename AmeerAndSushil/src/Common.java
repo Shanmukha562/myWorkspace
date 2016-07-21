@@ -16,7 +16,8 @@ public class Common {
 		System.out.println("1 push from github");
 
 		System.out.println("2 push from github");
-		System.out.println("1 push from github");
+		System.out.println("3 push from github");
+		
         
 	}
 }
